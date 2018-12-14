@@ -1,0 +1,6 @@
+C:\VisualStudioEdxProjects\TutorialLab\StudentArrayList\bin\Debug\StudentArrayList.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\StudentArrayList\bin\Debug\StudentArrayList.exe
+C:\VisualStudioEdxProjects\TutorialLab\StudentArrayList\bin\Debug\StudentArrayList.pdb
+C:\VisualStudioEdxProjects\TutorialLab\StudentArrayList\obj\Debug\StudentArrayList.csprojResolveAssemblyReference.cache
+C:\VisualStudioEdxProjects\TutorialLab\StudentArrayList\obj\Debug\StudentArrayList.exe
+C:\VisualStudioEdxProjects\TutorialLab\StudentArrayList\obj\Debug\StudentArrayList.pdb
