@@ -1,0 +1,6 @@
+C:\VisualStudioEdxProjects\TutorialLab\Reverse\bin\Debug\Reverse.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\Reverse\bin\Debug\Reverse.exe
+C:\VisualStudioEdxProjects\TutorialLab\Reverse\bin\Debug\Reverse.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Reverse\obj\Debug\Reverse.exe
+C:\VisualStudioEdxProjects\TutorialLab\Reverse\obj\Debug\Reverse.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
