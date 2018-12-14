@@ -1,0 +1,6 @@
+C:\VisualStudioEdxProjects\TutorialLab\CarStruct\bin\Debug\CarStruct.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\CarStruct\bin\Debug\CarStruct.exe
+C:\VisualStudioEdxProjects\TutorialLab\CarStruct\bin\Debug\CarStruct.pdb
+C:\VisualStudioEdxProjects\TutorialLab\CarStruct\obj\Debug\CarStruct.csprojResolveAssemblyReference.cache
+C:\VisualStudioEdxProjects\TutorialLab\CarStruct\obj\Debug\CarStruct.exe
+C:\VisualStudioEdxProjects\TutorialLab\CarStruct\obj\Debug\CarStruct.pdb
