@@ -1,0 +1,6 @@
+C:\VisualStudioEdxProjects\TutorialLab\KSmallest\bin\Debug\KSmallest.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\KSmallest\bin\Debug\KSmallest.exe
+C:\VisualStudioEdxProjects\TutorialLab\KSmallest\bin\Debug\KSmallest.pdb
+C:\VisualStudioEdxProjects\TutorialLab\KSmallest\obj\Debug\KSmallest.csprojResolveAssemblyReference.cache
+C:\VisualStudioEdxProjects\TutorialLab\KSmallest\obj\Debug\KSmallest.exe
+C:\VisualStudioEdxProjects\TutorialLab\KSmallest\obj\Debug\KSmallest.pdb
