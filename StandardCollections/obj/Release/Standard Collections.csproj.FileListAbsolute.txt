@@ -1,0 +1,5 @@
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\bin\Release\Standard Collections.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\bin\Release\Standard Collections.exe
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\bin\Release\Standard Collections.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\obj\Release\Standard Collections.exe
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\obj\Release\Standard Collections.pdb

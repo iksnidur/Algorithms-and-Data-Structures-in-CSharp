@@ -1,0 +1,6 @@
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\bin\Debug\Standard Collections.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\bin\Debug\Standard Collections.exe
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\bin\Debug\Standard Collections.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\obj\Debug\Standard Collections.csprojResolveAssemblyReference.cache
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\obj\Debug\Standard Collections.exe
+C:\VisualStudioEdxProjects\TutorialLab\Standard Collections\obj\Debug\Standard Collections.pdb
