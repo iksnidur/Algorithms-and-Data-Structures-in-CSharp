@@ -1,0 +1,5 @@
+C:\VisualStudioEdxProjects\TutorialLab\Hastable\bin\Debug\Hastable.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\Hastable\bin\Debug\Hastable.exe
+C:\VisualStudioEdxProjects\TutorialLab\Hastable\bin\Debug\Hastable.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Hastable\obj\Debug\Hastable.exe
+C:\VisualStudioEdxProjects\TutorialLab\Hastable\obj\Debug\Hastable.pdb
