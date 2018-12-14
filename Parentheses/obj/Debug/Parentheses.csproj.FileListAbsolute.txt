@@ -1,0 +1,6 @@
+C:\VisualStudioEdxProjects\TutorialLab\Parentheses\bin\Debug\Parentheses.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\Parentheses\bin\Debug\Parentheses.exe
+C:\VisualStudioEdxProjects\TutorialLab\Parentheses\bin\Debug\Parentheses.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Parentheses\obj\Debug\Parentheses.csprojResolveAssemblyReference.cache
+C:\VisualStudioEdxProjects\TutorialLab\Parentheses\obj\Debug\Parentheses.exe
+C:\VisualStudioEdxProjects\TutorialLab\Parentheses\obj\Debug\Parentheses.pdb
