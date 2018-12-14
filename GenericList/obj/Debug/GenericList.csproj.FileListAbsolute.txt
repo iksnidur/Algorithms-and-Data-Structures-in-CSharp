@@ -1,0 +1,9 @@
+C:\VisualStudioEdxProjects\TutorialLab\GenericList\bin\Debug\GenericList.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\GenericList\bin\Debug\GenericList.exe
+C:\VisualStudioEdxProjects\TutorialLab\GenericList\bin\Debug\GenericList.pdb
+C:\VisualStudioEdxProjects\TutorialLab\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\VisualStudioEdxProjects\TutorialLab\GenericList\obj\Debug\GenericList.exe
+C:\VisualStudioEdxProjects\TutorialLab\GenericList\obj\Debug\GenericList.pdb
+C:\VisualStudioEdxProjects\AlgorithmsAndDataStucturesInCSharp\GenericList\bin\Debug\GenericList.exe.config
+C:\VisualStudioEdxProjects\AlgorithmsAndDataStucturesInCSharp\GenericList\obj\Debug\GenericList.exe
+C:\VisualStudioEdxProjects\AlgorithmsAndDataStucturesInCSharp\GenericList\obj\Debug\GenericList.pdb
