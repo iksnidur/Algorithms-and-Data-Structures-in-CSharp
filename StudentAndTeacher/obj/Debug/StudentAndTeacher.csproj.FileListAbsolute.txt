@@ -1,0 +1,5 @@
+C:\VisualStudioEdxProjects\TutorialLab\StudentAndTeacher\bin\Debug\StudentAndTeacher.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\StudentAndTeacher\bin\Debug\StudentAndTeacher.exe
+C:\VisualStudioEdxProjects\TutorialLab\StudentAndTeacher\bin\Debug\StudentAndTeacher.pdb
+C:\VisualStudioEdxProjects\TutorialLab\StudentAndTeacher\obj\Debug\StudentAndTeacher.exe
+C:\VisualStudioEdxProjects\TutorialLab\StudentAndTeacher\obj\Debug\StudentAndTeacher.pdb
