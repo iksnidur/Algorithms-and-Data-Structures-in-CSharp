@@ -1,0 +1,5 @@
+C:\VisualStudioEdxProjects\TutorialLab\ArraysIteration\bin\Debug\ArraysIteration.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\ArraysIteration\bin\Debug\ArraysIteration.exe
+C:\VisualStudioEdxProjects\TutorialLab\ArraysIteration\bin\Debug\ArraysIteration.pdb
+C:\VisualStudioEdxProjects\TutorialLab\ArraysIteration\obj\Debug\ArraysIteration.exe
+C:\VisualStudioEdxProjects\TutorialLab\ArraysIteration\obj\Debug\ArraysIteration.pdb
