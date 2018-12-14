@@ -1,0 +1,5 @@
+C:\VisualStudioEdxProjects\TutorialLab\Difference\bin\Debug\Difference.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\Difference\bin\Debug\Difference.exe
+C:\VisualStudioEdxProjects\TutorialLab\Difference\bin\Debug\Difference.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Difference\obj\Debug\Difference.exe
+C:\VisualStudioEdxProjects\TutorialLab\Difference\obj\Debug\Difference.pdb
