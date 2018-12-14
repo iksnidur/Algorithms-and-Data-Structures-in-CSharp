@@ -1,0 +1,5 @@
+C:\VisualStudioEdxProjects\TutorialLab\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+C:\VisualStudioEdxProjects\TutorialLab\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+C:\VisualStudioEdxProjects\TutorialLab\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+C:\VisualStudioEdxProjects\TutorialLab\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
