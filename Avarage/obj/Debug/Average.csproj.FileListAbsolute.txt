@@ -1,0 +1,6 @@
+C:\VisualStudioEdxProjects\TutorialLab\Avarage\obj\Debug\Average.csprojResolveAssemblyReference.cache
+C:\VisualStudioEdxProjects\TutorialLab\Avarage\bin\Debug\Avarage.exe.config
+C:\VisualStudioEdxProjects\TutorialLab\Avarage\bin\Debug\Avarage.exe
+C:\VisualStudioEdxProjects\TutorialLab\Avarage\bin\Debug\Avarage.pdb
+C:\VisualStudioEdxProjects\TutorialLab\Avarage\obj\Debug\Avarage.exe
+C:\VisualStudioEdxProjects\TutorialLab\Avarage\obj\Debug\Avarage.pdb
